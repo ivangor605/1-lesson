@@ -5,4 +5,4 @@ puts 'write triangle base'
 base = gets.chomp.to_f
 
 res = (hight * base)/2
-puts (res)
+puts res
